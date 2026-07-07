@@ -90,7 +90,7 @@ e a temperatura mínima — não a umidade, como inicialmente hipotetizado.
 
 ## Como executar
 
-1. Abra o [Google Colab](https://colab.research.google.com/).
+1. Abra o [Google Colab](https://colab.research.google.com/drive/1bIbK-E1MkNZtX9a1nkbjXtQ455BlLNis#scrollTo=105c2978).
 2. **Arquivo → Fazer upload de notebook** → selecione `MVP_Previsao_Chuva_PUC.ipynb`.
 3. **Ambiente de execução → Executar tudo** (Ctrl+F9).
 
